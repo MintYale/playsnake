@@ -1,2 +1,3 @@
-# mint
+# Pages
+
 Personal web pages.
